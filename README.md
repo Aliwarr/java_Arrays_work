@@ -1,2 +1,4 @@
-# java_Arrays_work
+# java__work
+Pattern Questions
 Arrays questions
+
