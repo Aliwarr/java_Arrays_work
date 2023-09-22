@@ -1,5 +1,3 @@
-package Map;
-
 import java.util.Hashtable;
 import java.util.Set;
 
